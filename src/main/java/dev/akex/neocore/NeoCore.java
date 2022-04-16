@@ -18,7 +18,7 @@ public final class NeoCore extends JavaPlugin {
         instance = this;
         System.out.println(Data.color("&f----------------------------------------"));
         System.out.println(Data.color("&eGracias por usar NeoCore"));
-        System.out.println(Data.color("&ePuedes apollarme entrando a mi Discord <3"));
+        System.out.println(Data.color("&ePuedes apoyarme entrando a mi Discord <3"));
         System.out.println(Data.color("&bhttps://discord.neomatrix.ml"));
         System.out.println(Data.color("&f----------------------------------------"));
 
