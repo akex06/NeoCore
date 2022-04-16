@@ -1,0 +1,13 @@
+name: NeoCore
+version: '${version}'
+main: dev.akex.neocore.NeoCore
+api-version: 1.18
+authors: [ Akex06 ]
+description: NeoMatrix's Core
+website: https://akex.dev/
+
+commands:
+  top:
+    permission: neocore.command.top
+  tpr:
+    permission: neocore.command.tpr

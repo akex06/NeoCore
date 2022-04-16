@@ -1,0 +1,11 @@
+# TPR CONFIGURATION
+tpr:
+  # MAX X COORDINATE
+  x: 1000
+  # MAX Z COORDINATE
+  z: 1000
+  # EXCLUDED WORLDS
+  worlds:
+    - helloworld
+    - foo
+    - faa
